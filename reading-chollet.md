@@ -7,3 +7,5 @@ description: >-
 
 # Reading Chollet
 
+    Since some point in the not so recent past I started reading books from the last chapter. In this book the last chapter is called: "Conclusions" \(Chapter 9\).
+
