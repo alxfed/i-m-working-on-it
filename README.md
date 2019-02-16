@@ -1,5 +1,5 @@
 ---
-description: Something
+description: What I put here are typically some accidental notes and draft presentations.
 ---
 
 # My notebook
