@@ -6,4 +6,5 @@
 ## Animal-speak
 
 * [Scikit-Learn](animal-speak/scikit-learn.md)
+* [TensorFlow](animal-speak/tensorflow.md)
 
