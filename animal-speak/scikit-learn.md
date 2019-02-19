@@ -12,7 +12,7 @@ and here: [https://scikit-learn.org/stable/tutorial/statistical\_inference/super
 
 ## **data -**
 
-a **set** of objects each of which has multiple properties \(**features** in Scikit-speak\).  
+a **set** of objects \(**individuals** in Stats-speak\) each of which has multiple properties, **variables** \(or **features** in Scikit-speak\).  
   
 **Example:** human census is **data**, the set consists of humans-_individuals_ , each human has height, weight etc.etc. - the **features** which are also called "attributes" \(because of the census, duh!\). Notice that a human must have height and weight, \(s\)he can not _not_ have them. The complete set of data is sometimes called **population** \(as opposed to sample which is a sub-set of it\).
 
@@ -28,6 +28,14 @@ a subset of data and the "world" selected by a pre-defined procedure \(including
 
 {% hint style="info" %}
 **Descriptive statistics** is the branch of statistics that includes methods for organizing and summarizing data. **Inferential statistics** is the branch of statistics that involves generalizing from a sample to the population from which the sample was selected and assessing the reliability of such generalizations.
+{% endhint %}
+
+## **feature -**
+
+the Scikit-speak for **variable** of Stat-speak. It's a variable in a very broad sense of the word, because it can be an object representing a complex phenomenon \(like a histogram of a noise\), but it's a variable \(or at maximum a 'representation of a variable'\) none the less. Seriously, there is no need in this meaningless \(in this context\) word "feature".
+
+{% hint style="info" %}
+In [machine learning](https://en.wikipedia.org/wiki/Machine_learning) and [pattern recognition](https://en.wikipedia.org/wiki/Pattern_recognition), a **feature** is an individual measurable property or characteristic of a phenomenon being observed. Choosing informative, discriminating and independent features is a crucial step for effective algorithms in [pattern recognition](https://en.wikipedia.org/wiki/Pattern_recognition), [classification](https://en.wikipedia.org/wiki/Classification_%28machine_learning%29) and [regression](https://en.wikipedia.org/wiki/Regression_analysis). Features are usually numeric, but structural features such as [strings](https://en.wikipedia.org/wiki/String_%28computer_science%29) and [graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29) are used in [syntactic pattern recognition](https://en.wikipedia.org/wiki/Syntactic_pattern_recognition). The concept of "feature" is related to that of [explanatory variable](https://en.wikipedia.org/wiki/Explanatory_variable) used in [statistical](https://en.wikipedia.org/wiki/Statistics) techniques such as [linear regression](https://en.wikipedia.org/wiki/Linear_regression).
 {% endhint %}
 
 ## **target** - 
