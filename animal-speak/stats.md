@@ -1,5 +1,7 @@
 ---
-description: The terms from Statistics.
+description: >-
+  The terms from Statistics. You can call it a 'Stats-speak' too, it's vague
+  enough. :)
 ---
 
 # Stats
