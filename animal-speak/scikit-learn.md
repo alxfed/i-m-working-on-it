@@ -60,15 +60,17 @@ All supervised [estimators](https://en.wikipedia.org/wiki/Estimator) in scikit-l
 
 ## dataset loaders, fetchers -
 
-loaders and fetchers functions return a dictionary-like object holding at least two items: an array of shape `n_samples` \* `n_features` with key \(a Python dictionary "key", not an SQL key\) `data` and a _**numpy**_ array of length `n_samples`, containing the target values, with key \(a Python dictionary "key", not an SQL key\) `target`. 
+loaders and fetchers functions return a dictionary-like object holding at least two items: an array of shape `n_samples` \* `n_features` with key \(a Python dictionary "key", not an SQL key\) `data` and a _**numpy**_ array of length `n_samples`, containing the **target** values, with key \(a Python dictionary "key", not an SQL key\) `target`.   
+  
+
 
 ## dataset generators
 
-can be used to generate controlled synthetic datasets. There are functions: 
+can be used to generate controlled synthetic datasets. [https://scikit-learn.org/stable/datasets/index.html\#generated-datasets](https://scikit-learn.org/stable/datasets/index.html#generated-datasets)
 
 {% hint style="info" %}
 These functions return a tuple `(X, y)` consisting of a `n_samples` \* `n_features` **numpy** array `X` and an array of length `n_samples` containing the targets `y`.
 {% endhint %}
 
-Notice that for some inexplicable reason \(probably because "it just happened so"\) this is a tuple while the loaders and fetchers return a dictionary... !F?
+Notice that for some inexplicable reason \(probably because "it just happened so"\) this is a tuple while the loaders and fetchers return a dictionary...
 
