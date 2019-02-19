@@ -12,8 +12,9 @@ and here: [https://scikit-learn.org/stable/tutorial/statistical\_inference/super
 
 ## **data -**
 
-a **set** of objects each of which has multiple _individual_ properties \(**features** in Scikit-speak\), the realizations of properties that are talked about as classes of any and all the objects in the set.   
-**Example:** human census is **data**, the set consists of humans-_individuals_ , each human has height, weight etc.etc. - the **features** which are also called "attributes" \(because of the census, duh!\).
+a **set** of objects each of which has multiple properties \(**features** in Scikit-speak\).  
+  
+**Example:** human census is **data**, the set consists of humans-_individuals_ , each human has height, weight etc.etc. - the **features** which are also called "attributes" \(because of the census, duh!\). Notice that a human must have height and weight, \(s\)he can not _not_ have them. The complete set of data is sometimes called **population** \(as opposed to sample which is a sub-set of it\).
 
 a subset of data is called **sample** \(see below\). It is just what I've just said  a subset picked out of the data according to a criterion \(including a 'random' selection\).
 
@@ -21,7 +22,13 @@ a subset of data is called **sample** \(see below\). It is just what I've just s
 
 ## sample -
 
-a subset of data collected and the world selected by a defined procedure. The elements of a sample are known as **sample points**, sampling units or observations.
+a subset of data and the "world" selected by a pre-defined procedure \(including a 'random' selection\). The elements of a sample are known as "sample points", "sampling units" or "observations".  
+  
+**Example**: a subset of humans in the same age group taken from the census data \(the population\).
+
+{% hint style="info" %}
+**Descriptive statistics** is the branch of statistics that includes methods for organizing and summarizing data. **Inferential statistics** is the branch of statistics that involves generalizing from a sample to the population from which the sample was selected and assessing the reliability of such generalizations.
+{% endhint %}
 
 ## **target** - 
 
