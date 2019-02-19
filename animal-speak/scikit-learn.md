@@ -12,6 +12,8 @@ The word that is constantly used in all the functions related to **regression**.
 **The human meaning** of it is: it's the thing you are trying to predict with the help of the "regression analysis".
 
 {% hint style="info" %}
-In Scikit every "sample" is a row`.`
+[Supervised learning](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning) consists in learning the link between two datasets: the observed data `X` and an external variable `y` that we are trying to predict, usually called “target” or “labels”. Most often, `y` is a 1D array of length `n_samples`.
+
+All supervised [estimators](https://en.wikipedia.org/wiki/Estimator) in scikit-learn implement a `fit(X, y)` method to fit the model and a `predict(X)`method that, given unlabeled observations `X`, returns the predicted labels `y`.
 {% endhint %}
 
