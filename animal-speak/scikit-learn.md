@@ -4,9 +4,7 @@ description: The Scikit-Learn flavor of Animal-speak.
 
 # Scikit-Learn
 
-## The Dictionary of Scikit-speak
-
-Borrowed mostly from here: , borrowed from:   
+Borrowed mostly from here:  
 [https://scikit-learn.org/stable/tutorial/basic/tutorial.html](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)   
 and here: [https://scikit-learn.org/stable/tutorial/statistical\_inference/supervised\_learning.html](https://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html)
 
