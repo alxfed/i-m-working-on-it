@@ -10,7 +10,7 @@ and here: [https://scikit-learn.org/stable/tutorial/statistical\_inference/super
 
 ## **data -**
 
-a **set** of objects \(**individuals** in Stats-speak\) each of which has multiple properties, **variables** \(or **features** in Scikit-speak\).  
+a **set** of objects or **individuals** \(in Stats-speak\) each of which has multiple properties \(Human\), **variables** \(Stats-speak\) or **features** \(Scikit-speak\).  
   
 **Example:** human census is **data**, the set consists of humans-_individuals_ , each human has height, weight etc.etc. - the **features** which are also called "attributes" \(because of the census, duh!\). Notice that a human must have height and weight, \(s\)he can not _not_ have them. The complete set of data is sometimes called **population** \(as opposed to sample which is a sub-set of it\).
 
