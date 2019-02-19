@@ -47,7 +47,7 @@ number of **variables** that every individual data points depends on, in Scikit 
 ## **target** - 
 
 The word that is constantly used in all the functions related to **regression**.   
-**The synonyms** of it are: "label", "class" and even "name of object".   
+**The synonyms** of it are: "label", "class" and even "name of object" \(in the sense "apple" or "orange"\). It can actually be multidimensional, but typically is just 1D.  
 **The human meaning** of it is: it's the thing you are trying to predict with the help of the "regression analysis". It may be one of the variables the data points depend on or it may be totally different, from outside the data table, then they call it an **external\_variable** assigned to each of the individual data points separately and because of that called **label**.
 
 {% hint style="info" %}
@@ -57,6 +57,8 @@ All supervised [estimators](https://en.wikipedia.org/wiki/Estimator) in scikit-l
 
 [http://scikit-learn.org/stable/tutorial/statistical\_inference/supervised\_learning.html](http://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html)
 {% endhint %}
+
+[https://scikit-learn.org/stable/datasets/index.html\#generators-for-regression](https://scikit-learn.org/stable/datasets/index.html#generators-for-regression)
 
 ## dataset loaders, fetchers -
 
