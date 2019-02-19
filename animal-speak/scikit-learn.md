@@ -22,7 +22,7 @@ a subset of data is called **sample** \(see below\). It is just what I've just s
 
 ## sample -
 
-a subset of data and the "world" selected by a pre-defined procedure \(including a 'random' selection\). The elements of a sample are known as "sample points", "sampling units" or "observations".  
+a subset of data from the **population**/\(all of\) **data** selected by a predefined procedure \(including a 'random' selection\). The elements of a sample are known as "sample points", "sampling units" or "observations".  
   
 **Example**: a subset of humans in the same age group taken from the census data \(the population\).
 
