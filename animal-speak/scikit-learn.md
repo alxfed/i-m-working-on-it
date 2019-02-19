@@ -12,9 +12,10 @@ and here: [https://scikit-learn.org/stable/tutorial/statistical\_inference/super
 
 ## **data -**
 
-the \(pseudo\)**statistical meaning**: a **set** of objects each of which has multiple _individual_ properties \(the realizations of properties that are talked about as classes intrinsic to any and all the objects\). Example: human census is **data**, the set consists of humans, each human has height, weight etc.etc. - the properties \(**features** in Scikit-speak, also "attributes", because of the census, duh!\).
+a **set** of objects each of which has multiple _individual_ properties \(**features** in Scikit-speak\), the realizations of properties that are talked about as classes of any and all the objects in the set.   
+**Example:** human census is **data**, the set consists of humans-_individuals_ , each human has height, weight etc.etc. - the **features** which are also called "attributes" \(because of the census, duh!\).
 
-If you are a student of Newtonian dynamics or Mechanics - you need to wrap your head around it here.
+If you are a student of Newtonian dynamics or Mechanics or, God forbid, Electrodynamics - you need to wrap your head around it here. Everything is totally static, there is only a set of pieces on the chessboard and of course all the Animal-speak is created for the sole purpose of being able to joggle the super-expensive to acquire numbers and answers to questions as the 'researcher' wants in order to obtain the desired 'prediction' that will sell well. Sorry for being cynical but that's what it is and nothing more.
 
 ## **target** - 
 
