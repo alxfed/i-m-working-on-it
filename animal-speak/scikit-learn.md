@@ -4,11 +4,17 @@ description: The Scikit-Learn flavor of Animal-speak.
 
 # Scikit-Learn
 
-## The Dictionary of Scikit
+## The Dictionary of Scikit-speak
 
 Borrowed mostly from here: , borrowed from:   
 [https://scikit-learn.org/stable/tutorial/basic/tutorial.html](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)   
 and here: [https://scikit-learn.org/stable/tutorial/statistical\_inference/supervised\_learning.html](https://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html)
+
+## **data -**
+
+the \(pseudo\)**statistical meaning**: a **set** of objects each of which has multiple _individual_ properties \(the realizations of properties that are talked about as classes intrinsic to any and all the objects\). Example: human census is **data**, the set consists of humans, each human has height, weight etc.etc. - the properties \(**features** in Scikit-speak, also "attributes", because of the census, duh!\).
+
+If you are a student of Newtonian dynamics or Mechanics - you need to wrap your head around it here.
 
 ## **target** - 
 
