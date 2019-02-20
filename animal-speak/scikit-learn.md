@@ -58,7 +58,11 @@ All supervised [estimators](https://en.wikipedia.org/wiki/Estimator) in scikit-l
 [http://scikit-learn.org/stable/tutorial/statistical\_inference/supervised\_learning.html](http://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html)
 {% endhint %}
 
-[https://scikit-learn.org/stable/datasets/index.html\#generators-for-regression](https://scikit-learn.org/stable/datasets/index.html#generators-for-regression)
+{% embed url="https://scikit-learn.org/stable/datasets/index.html\#generators-for-regression" %}
+
+## n\_targets -
+
+the other dimension of 'output' matrix y.
 
 ## dataset loaders, fetchers -
 
