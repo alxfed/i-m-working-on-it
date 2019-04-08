@@ -17,6 +17,9 @@ I consider this to be my notebook, don't expect too much from it.
 
 TODO:
 
+not so much to do.
+
+
 * Finish reading Chollet
 * A couple of examples in Colab...
 
