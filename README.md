@@ -4,6 +4,8 @@ description: What I put here are typically some accidental notes and draft prese
 
 # My notebook
 
+yep.
+
 By sheer accident I bumped into this book here: [http://gifi.stat.ucla.edu/gifi/\_book/index.html](http://gifi.stat.ucla.edu/gifi/_book/index.html)  
   
 I was searching for references to Yule - Pearson debacles and was lead to the page:  
